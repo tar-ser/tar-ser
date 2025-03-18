@@ -1,10 +1,11 @@
 ## My name is 0xTar
 
 ## About me
-🚀 Lead Developer of **Liquidity Guardian Suite**  
-💻 Building DeFi tools for Solana | Rust | Smart Contracts | Cybersecurity  
+🚀 Lead Developer of **Anti-Liquidation Bot**  
+💻 Building DeFi tools for DeFi | Web3 | Crypto
+🦾 Developer skills: Rust | Smart Contracts | Cybersecurity |Python | C#
 🔒 Empowering projects to automate liquidity, stop hacks, and optimize yields  
-🌐 Open-source enthusiast | Solana ecosystem contributor 
+🌐 Open-source enthusiast | DeFi ecosystem contributor 
 
 📫 **Connect with me:**  
 - Telegram: [t.me/ZeroNodeX](https://t.me/ZeroNodeX)

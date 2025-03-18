@@ -1,4 +1,4 @@
-## My name is 0xTar aka 0Node
+## My name is 0xTar
 
 ## About me
 🚀 Lead Developer of **Liquidity Guardian Suite**  
